@@ -19,6 +19,13 @@ python quick_start.py -u --input_text "샘플 텍스트" 커맨드를 사용해 
 샘플데이터를 사용한 Result는 아래와 같습니다.
 ## Results
 https://opensw23-ten.github.io/sample/
+
+
+
+https://github.com/opensw23-ten/opensw23-ten/assets/127181370/f6a00d5a-ed81-4306-9679-76677c47c4f8
+
+
+
 ## Analysis/Visualization
 
 ## Installation
