@@ -6,7 +6,7 @@ Text-To-Speech project
   신민석 : 202011316 github expert  
   김수형 : 202211276 발표자  
 ## Topic Introduction
-### clone한 repository
+### References
 https://github.com/fatchord/WaveRNN
 ## Results
 https://opensw23-four.github.io/sample/
