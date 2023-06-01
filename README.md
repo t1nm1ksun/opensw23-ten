@@ -15,7 +15,7 @@ python quick_start.py -u --input_text "샘플 텍스트" 커맨드를 사용해 
 자신만의 모델을 트레이닝 시킬 수 있습니다.
 샘플데이터를 사용한 Result는 아래와 같습니다.
 ## Results
-https://opensw23-four.github.io/sample/
+https://opensw23-ten.github.io/sample/
 ## Analysis/Visualization
 
 ## Installation
