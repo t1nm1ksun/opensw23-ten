@@ -19,10 +19,16 @@ python quick_start.py -u --input_text "샘플 텍스트" 커맨드를 사용해 
 샘플데이터를 사용한 Result는 아래와 같습니다.
 ## Results
 https://opensw23-ten.github.io/sample/
-### Inputs
-#### Hello my name is konkuk.
 
-https://github.com/opensw23-ten/opensw23-ten/assets/127181370/7d2a7afc-7bce-4fec-84d9-07269d3846c3
+
+
+https://github.com/opensw23-ten/opensw23-ten/assets/127181370/f6a00d5a-ed81-4306-9679-76677c47c4f8
+
+
+
+one two three mic test mic test
+https://github.com/opensw23-ten/opensw23-ten/assets/122257945/1d8151d9-c778-4b4b-976c-159ac483d580
+
 
 ## Analysis/Visualization
 
