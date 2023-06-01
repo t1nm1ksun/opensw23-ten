@@ -1,6 +1,7 @@
-numpy==1.22.0
-librosa==0.6.3
+soundfile
 matplotlib
 unidecode
 inflect
 nltk
+numpy==1.22.0
+librosa
